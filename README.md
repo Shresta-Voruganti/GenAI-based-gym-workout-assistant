@@ -1,1 +1,1 @@
-# GenAI-based-gym-workout-assistant
+# GenAI-based-gym/workout-assistant
